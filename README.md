@@ -1,4 +1,4 @@
-# FileSystem-Emulator
+# FileSystem-Emulator - WOW! AND IM ONLY 17
 Fully emulated filesystem which saves, has a built-in text editor, and supports everything a basic FS would.
 
 Yeah it has a C++ main file which displays and has built in commands. Just learn from that if necessary.
@@ -30,3 +30,7 @@ PAR-1
 EOF
 ```
 * The 10 represents 10 chars. 30 Digits b/c each char is encoded into 3 digits.
+
+
+https://github.com/user-attachments/assets/c475d116-a82d-4fed-b577-9e656bc3d2a0
+
